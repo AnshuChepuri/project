@@ -1,4 +1,5 @@
 import sys
+sys.path.insert(0, 'C:\Users\ANJALI\Desktop\project\src')
 from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
