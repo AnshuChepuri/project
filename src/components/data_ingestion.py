@@ -1,7 +1,7 @@
 #reading data, train_test_split
 import os
 import sys
-sys.path.insert(0, 'C:\\Users\\ANJALI\\Desktop\\project\\src')
+sys.path.insert(0, 'C:\Users\ANJALI\Desktop\project\src')
 
 from src.exception import CustomException
 from src.logger import logging
